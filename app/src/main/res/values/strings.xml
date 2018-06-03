@@ -2,4 +2,5 @@
     <string name="app_name">SmartHome</string>
     <string name="btn_detect">点击录音</string>
     <string name="app_id">5b03f4b7</string>>
+    <string name="btn_connect">建立连接</string>
 </resources>
