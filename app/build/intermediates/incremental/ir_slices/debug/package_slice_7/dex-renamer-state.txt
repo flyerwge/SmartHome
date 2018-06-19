@@ -1,0 +1,4 @@
+#Sun Jun 17 20:13:29 CST 2018
+base.0=D\:\\Android\\work\\SmartHome\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+path.0=classes.dex
+renamed.0=classes.dex

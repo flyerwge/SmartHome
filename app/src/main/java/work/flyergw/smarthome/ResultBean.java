@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * ResultBean
  * 储存解析出来的数据
  *
- * @author 葛伟
+ * @author flyerwge
  */
 public class ResultBean {
 

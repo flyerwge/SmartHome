@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="26"
+    build-mode="HOT_WARM"
+    density="xxhdpi"
+    format="10"
+    plugin-version="3.1.2"
+    timestamp="1529413606155"
+    token="-8534189989784215022"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="324" />
+    <task
+        name="instant-run-dex"
+        duration="72" />
+    <task
+        name="instant-run-transform"
+        duration="100" />
+    <task
+        name="verifier"
+        duration="18" />
+
+    <artifact
+        location="D:\Android\work\SmartHome\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1529413447489"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1529413500127"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\builds\debug\1529413500127\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1529413568378"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\builds\debug\1529413568378\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1529413606155"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Android\work\SmartHome\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

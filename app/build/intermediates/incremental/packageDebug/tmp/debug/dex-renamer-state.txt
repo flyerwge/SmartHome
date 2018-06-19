@@ -1,0 +1,13 @@
+#Tue Jun 19 17:36:07 CST 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=D\:\\Android\\work\\SmartHome\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+base.2=D\:\\Android\\work\\SmartHome\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+base.1=D\:\\Android\\work\\SmartHome\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30
+base.0=D\:\\Android\\work\\SmartHome\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29

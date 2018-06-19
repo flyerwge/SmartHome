@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [com.lqr.audio:library:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\library-1.0.0.aar\157e6265a239dbf0b335c196ce5557fd\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dcb9f7b2183480ae5ef34b4a31bcf1b1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b2a687d5f5c166c51eeef62101af801e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\99de80b4f3f084003d95aa84a25fcaeb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e9cd9d2e0786aa9d7dacf920066151dc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f5aab57278a8552176de2f6d7c15b9d1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7c76a6e9f88eb65f0ae9074462e8a8cd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e52080d11aa39282ef60a26235837ee7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2cde253d51d6a55ccdb1fbcf66f0aace\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4166692c57d26417d4663236351fe8fc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\522efb62ad3da9943c7b0dcd64ec3dc9\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4f3d0e3448e50e736a1d19e08e33eab\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:5:5-29
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:24:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:27:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:29:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:30:5-73
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:30:22-71
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:35:5-75
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:35:22-73
+application
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:48:5-62:19
+MERGED from [com.lqr.audio:library:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\library-1.0.0.aar\157e6265a239dbf0b335c196ce5557fd\AndroidManifest.xml:11:5-15:19
+MERGED from [com.lqr.audio:library:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\library-1.0.0.aar\157e6265a239dbf0b335c196ce5557fd\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dcb9f7b2183480ae5ef34b4a31bcf1b1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dcb9f7b2183480ae5ef34b4a31bcf1b1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b2a687d5f5c166c51eeef62101af801e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b2a687d5f5c166c51eeef62101af801e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\99de80b4f3f084003d95aa84a25fcaeb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\99de80b4f3f084003d95aa84a25fcaeb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e9cd9d2e0786aa9d7dacf920066151dc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e9cd9d2e0786aa9d7dacf920066151dc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f5aab57278a8552176de2f6d7c15b9d1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f5aab57278a8552176de2f6d7c15b9d1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7c76a6e9f88eb65f0ae9074462e8a8cd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7c76a6e9f88eb65f0ae9074462e8a8cd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e52080d11aa39282ef60a26235837ee7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e52080d11aa39282ef60a26235837ee7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2cde253d51d6a55ccdb1fbcf66f0aace\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2cde253d51d6a55ccdb1fbcf66f0aace\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4166692c57d26417d4663236351fe8fc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4166692c57d26417d4663236351fe8fc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\522efb62ad3da9943c7b0dcd64ec3dc9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\522efb62ad3da9943c7b0dcd64ec3dc9\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4f3d0e3448e50e736a1d19e08e33eab\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4f3d0e3448e50e736a1d19e08e33eab\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:53:9-35
+	android:label
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:51:9-41
+	android:roundIcon
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:52:9-45
+	android:icon
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:50:9-40
+	android:allowBackup
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:49:9-35
+	android:theme
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:54:9-40
+activity#work.flyergw.smarthome.MainActivity
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:55:9-61:20
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:55:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:56:13-60:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml:59:27-74
+uses-sdk
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+MERGED from [com.lqr.audio:library:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\library-1.0.0.aar\157e6265a239dbf0b335c196ce5557fd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lqr.audio:library:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\library-1.0.0.aar\157e6265a239dbf0b335c196ce5557fd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dcb9f7b2183480ae5ef34b4a31bcf1b1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dcb9f7b2183480ae5ef34b4a31bcf1b1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b2a687d5f5c166c51eeef62101af801e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b2a687d5f5c166c51eeef62101af801e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\99de80b4f3f084003d95aa84a25fcaeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\99de80b4f3f084003d95aa84a25fcaeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e9cd9d2e0786aa9d7dacf920066151dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e9cd9d2e0786aa9d7dacf920066151dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f5aab57278a8552176de2f6d7c15b9d1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f5aab57278a8552176de2f6d7c15b9d1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7c76a6e9f88eb65f0ae9074462e8a8cd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7c76a6e9f88eb65f0ae9074462e8a8cd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e52080d11aa39282ef60a26235837ee7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e52080d11aa39282ef60a26235837ee7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2cde253d51d6a55ccdb1fbcf66f0aace\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2cde253d51d6a55ccdb1fbcf66f0aace\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4166692c57d26417d4663236351fe8fc\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4166692c57d26417d4663236351fe8fc\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\522efb62ad3da9943c7b0dcd64ec3dc9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\522efb62ad3da9943c7b0dcd64ec3dc9\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4f3d0e3448e50e736a1d19e08e33eab\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4f3d0e3448e50e736a1d19e08e33eab\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dcb9f7b2183480ae5ef34b4a31bcf1b1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\work\SmartHome\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dcb9f7b2183480ae5ef34b4a31bcf1b1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\99de80b4f3f084003d95aa84a25fcaeb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\99de80b4f3f084003d95aa84a25fcaeb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e9cd9d2e0786aa9d7dacf920066151dc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e9cd9d2e0786aa9d7dacf920066151dc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f5aab57278a8552176de2f6d7c15b9d1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f5aab57278a8552176de2f6d7c15b9d1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7c76a6e9f88eb65f0ae9074462e8a8cd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7c76a6e9f88eb65f0ae9074462e8a8cd\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e52080d11aa39282ef60a26235837ee7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e52080d11aa39282ef60a26235837ee7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2cde253d51d6a55ccdb1fbcf66f0aace\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2cde253d51d6a55ccdb1fbcf66f0aace\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4166692c57d26417d4663236351fe8fc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4166692c57d26417d4663236351fe8fc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\522efb62ad3da9943c7b0dcd64ec3dc9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\522efb62ad3da9943c7b0dcd64ec3dc9\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dcb9f7b2183480ae5ef34b4a31bcf1b1\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dcb9f7b2183480ae5ef34b4a31bcf1b1\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4f3d0e3448e50e736a1d19e08e33eab\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4f3d0e3448e50e736a1d19e08e33eab\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\flyer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c4f3d0e3448e50e736a1d19e08e33eab\AndroidManifest.xml:26:13-58
