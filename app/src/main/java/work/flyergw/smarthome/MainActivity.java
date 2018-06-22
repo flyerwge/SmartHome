@@ -155,7 +155,7 @@ public class MainActivity extends AppCompatActivity {
                             PrintWriter printWriter = new PrintWriter(outputStream);
                             printWriter.write("y" + nowYear + "/" + nowMonth + "/" + nowDate);
                             printWriter.flush();
-                            socket.close();
+                            //socket.close();
                         } catch (IOException e) {
                             e.printStackTrace();
                         }
@@ -205,7 +205,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 try {
-                    socket = new Socket(dstName, dstPort);
+                    //socket = new Socket(dstName, dstPort);
                     if (newSendString != null) {
                         OutputStream outputStream = socket.getOutputStream();
                         PrintWriter printWriter = new PrintWriter(outputStream);
